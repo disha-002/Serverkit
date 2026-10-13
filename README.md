@@ -173,11 +173,6 @@ Config is created at `~/.serverkit/config.json` on first launch. Optional extras
 | [Examples](examples/) | Runnable sample scripts |
 ---
 
-## Team
-
-- Anoushka Awasthi ([GitHub](https://github.com/anoushkawasthi))
-- Aahil Khan
-
 ## Development
 
 ```bash
